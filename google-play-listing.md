@@ -66,13 +66,12 @@ FOUR SIMPLE SCREENS
 
 FREE AND PREMIUM
 
-The free tier includes one routine and seven days of history.
+The free tier includes two routines with up to four steps each and seven days of history.
 
-Premium unlocks unlimited routines and full history through a Google Play subscription.
+Premium unlocks unlimited routines, longer routines, and full history through a Google Play subscription.
 
 Khalas means “enough.”
 
 You do not need a perfect system. You need a clear next step.
 
 **Character count:** under 4,000 characters.
-
